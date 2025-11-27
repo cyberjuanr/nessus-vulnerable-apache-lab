@@ -1,4 +1,5 @@
-Day 1 — Vulnerable Apache Setup
+### Day 1 — Vulnerable Apache Setup
+
 ✔ Tasks Completed
 
 Created GitHub repository structure
@@ -17,6 +18,8 @@ Enabled dangerous Apache modules
 
 Saved original Apache config
 
+
+
 📸 Screenshots Added
 
 Apache installation
@@ -27,6 +30,8 @@ Apache vulnerable config preview
 
 Nessus scan setup
 
+
+
 🧠 Lessons Learned
 
 Apache defaults are secure, but misconfigurations introduce real risks
@@ -34,6 +39,8 @@ Apache defaults are secure, but misconfigurations introduce real risks
 Nessus detects both CVEs and config weaknesses
 
 Intentional vulnerabilities are critical for hands-on learning
+
+
 
 🔜 Next Steps
 
